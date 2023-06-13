@@ -1,4 +1,3 @@
-# UAS
 Website WOOF! dimulai dengan homepage yang menampilkan logo dari WOOF, Navigation Bar, Carousel, Products, Newsletter, dan Footer.
 
 Navigation Bar
